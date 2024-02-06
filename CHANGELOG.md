@@ -1,4 +1,13 @@
-# 0.1.0 (2024-02-06)
+# [0.2.0](https://github.com/fusunsas/greetings-ci/compare/v0.1.0...v0.2.0) (2024-02-06)
+
+
+### Features
+
+* upload artifact ([e25c306](https://github.com/fusunsas/greetings-ci/commit/e25c3067cee62b1793425be3b1de667f8c4ee07b))
+
+
+
+# [0.1.0](https://github.com/fusunsas/greetings-ci/compare/04ca760e4efa2b6f82e40ad14e8c155eabf8886a...v0.1.0) (2024-02-06)
 
 
 ### Bug Fixes
